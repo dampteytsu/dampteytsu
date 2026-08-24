@@ -1,68 +1,48 @@
-Hi there! 👋
+### Hi there! 👋
 
-🚀 About Me
+## 🚀 About Me
 
-I'm a Full-Stack Developer with 8 years of experience in software development, specializing in PHP and its modern framework Symfony. I have a strong background in fintech, working on loans integration, POS integration, and vehicle insurance integration projects.
+I'm a **Software & DevOps Developer** with a background spanning full-stack web development, backend engineering, and digital infrastructure. I currently work **remotely with Enterprise Group PLC**, a leading Ghanaian financial services conglomerate, where I build and maintain web platforms, support DevOps workflows, and drive digital marketing initiatives across the group's subsidiaries.
 
-I currently work at ExpressPay, a leading fintech company, and have built various applications, including a property listing website Office & Homes GH. I'm also exploring cybersecurity.
+I bring deep experience in **fintech markets**: from payment integrations to insurance and property platforms, alongside strong PHP/Symfony and WordPress foundations, and growing expertise in Node.js/Express backend engineering.
 
-💡 Skills & Technologies
+I'm also active as a **Digital Marketing Strategist**, producing SEO audits, analytics reports, and Google Ads strategy for clients in Ghana's financial and real estate sectors.
 
-Backend: PHP, Symfony, Laravel
+## 💡 Skills & Technologies
 
-Frontend: JavaScript, HTML, CSS, Twig, Vue.js
+**Backend:** PHP, Symfony, Laravel, Node.js, Express.js
+**Frontend:** JavaScript, TypeScript (fundamentals), React.js (fundamentals), HTML, CSS, Twig, Vue.js
+**Database:** PostgreSQL, MySQL, Elasticsearch
+**DevOps & Cloud:** Docker, AWS, Linux Server Management, CI/CD workflows
+**CMS & Platforms:** WordPress (custom themes, plugin development, Multisite networks)
+**Digital Marketing:** SEO, Google Analytics (GA4), Google Search Console, Google Business Profile, Google Ads, Highcharts
+**Version Control:** Git, GitHub, GitLab
+**Payments & Fintech Integration:** Hubtel, Mobile Money (MoMo) APIs, POS integration, loan & insurance system integrations
+**Other:** reCAPTCHA, WooCommerce plugin development
 
-Database: MySQL, PostgreSQL
+## 📌 Featured / Recent Work
 
-DevOps & Cloud: AWS, Docker, Linux Server Management
+**🏢 Enterprise Group PLC — Digital Platforms & DevOps** *(current, remote)*
+- Building and maintaining WordPress Multisite properties across Enterprise Insurance, Enterprise Life, Enterprise Trustees, Enterprise Properties, Enterprise Funeral Services, and Acacia Health
+- Delivering pixel-perfect front-end builds against the Enterprise Group Digital Design System
+- Producing SEO, Google Business Profile, and website analytics reporting (GA4 / Search Console) for group subsidiaries
 
-Version Control: Git, GitHub, GitLab
+**💳 Fintech & Payments (ExpressPay)**
+- Built a queuing system for secure, automatically verified transactions against the ExpressPay API
+- Developed a WooCommerce payment gateway plugin for African merchants
 
-Other: WordPress Plugin Development, Highcharts, Google Analytics, SEO, reCAPTCHA
+**🔐 SaaS Escrow Concept**
+- Designed and prototyped an escrow service targeting Ghana's digital marketplace trust gap, including a full PostgreSQL schema and working Hubtel MoMo integration
 
-📌 Recent Projects
+**🏡 Property Listing Platform (Office & Homes GH)**
+- Built with Symfony, featuring Google Maps integration, custom Highcharts dashboards, and SEO optimization
+- Implemented spam protection with reCAPTCHA
 
-🏡 Property Listing Website (Office & Homes GH)
+**🌍 Interactive Region Map**
+- Dynamic, database-driven SVG map with a Symfony backend
 
-Built with Symfony
+## 📫 Connect with Me
 
-Features Google Maps integration, custom charts, and SEO optimizations
-
-Implemented spam protection using reCAPTCHA
-
-📊 Reporting Dashboard
-
-Used Highcharts for visual data representation
-
-Implemented filtering by day, week, and month
-
-🔐 Secure Transactions System
-
-Developed a queuing system to handle transactions with ExpressPay API
-
-Transactions are verified and updated automatically
-
-🌍 Interactive Map
-
-Created a dynamic region-based map where names update from a database
-
-Implemented using SVG and Symfony backend
-
-🏨 WordPress Hotel Plugin (In Progress)
-
-Users earn points per day based on the selected room type
-
-Custom plugin development in WordPress & PHP
-
-📫 Connect with Me
-
-LinkedIn: Your Profile
-
-GitHub: github.com/dampteytsu
-
-Email: dampteytsu@gmail.com
-
-<!---
-dampteytsu/dampteytsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **GitHub:** [github.com/dampteytsu](https://github.com/dampteytsu)
+- **Email:** dampteytsu@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sampson-damptey-twumasi-508643116/
